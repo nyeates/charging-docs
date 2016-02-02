@@ -1,13 +1,13 @@
 # charging-docs
-Documentation for the project Chargeback in ManageIQ (https://www.manageiq.org)
+This repository contains documentation for the [Chargeback](https://github.com/rhus/manageiq/) project implemented within [ManageIQ](https://www.manageiq.org).
 
-There are several places for the documentation:
+There are several places that house documentation:
 
-- What are seeing know is the user and administrator documentation.
+- What you are seeing now is the user and administrator documentation.
 - You can find requirements in the document
 - Developer documentation is in the code :D
 
-Please go the *wiki* (https://github.com/rhus/charging-docs/wiki) to see and make changes on the requirements
+Please go to the *wiki* (https://github.com/rhus/charging-docs/wiki) to see and make changes on the requirements
 
 You can also look at the documentation for:
 - Tariff plan and rate definitions. How we are rating. Tiers, discounts, definitions, all there
@@ -23,5 +23,5 @@ But we are moving the Scrum board into taiga:
 https://tree.taiga.io/project/sergioocon-charging-in-manageiq/
 
 
-And we have a blog if you want to know how things are going with the project itself, is Open Source:
+And we have an open source blog if you want to know how things are going with the project itself:
 http://restoconstante.blogspot.com
